@@ -1,0 +1,9 @@
+{
+    "javascript.autoClosingTags": false,
+    "debug.internalConsoleOptions": "neverOpen",
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+    "debug.node.autoAttach": "off",
+    "javascript.suggestionActions.enabled": false,
+    "javascript.suggest.autoImports": false,
+    "typescript.format.enable": false,
+}

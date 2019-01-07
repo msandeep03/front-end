@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="125px" height="32px" viewBox="0 0 125 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 22</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.149504579 1.4592 125.714153 1.4592 125.714153 32.9112 0.149504579 32.9112"></polygon>
+        <polygon id="path-3" points="1.20851535 1.4592 43.0625983 1.4592 43.0625983 32.9112 1.20851535 32.9112"></polygon>
+        <polygon id="path-5" points="1.211875 1.4592 43.0635582 1.4592 43.0635582 32.9112 1.211875 32.9112"></polygon>
+        <polygon id="path-7" points="1.73814072 1.4592 4.13789319 1.4592 4.13789319 32.9112 1.73814072 32.9112"></polygon>
+        <polygon id="path-9" points="0.149264604 1.4592 125.713913 1.4592 125.713913 32.9112 0.149264604 32.9112"></polygon>
+        <polygon id="path-11" points="0.152144307 1.4592 125.714393 1.4592 125.714393 32.9112 0.152144307 32.9112"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-611.000000, -2641.000000)">
+            <g id="Group-319" transform="translate(-250.000000, 2582.000000)">
+                <g id="Group-212" transform="translate(763.000000, 0.000000)">
+                    <g id="Group-22" transform="translate(98.000000, 58.000000)">
+                        <g>
+                            <g id="Group-178" transform="translate(0.000000, 0.000000)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g id="Clip-177"></g>
+                                <polyline id="Stroke-176" stroke="#000000" stroke-width="0.154" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="62.9318288 107.81424 83.8600702 71.56224 125.714153 71.56224 104.788312 35.31264 125.714153 -0.93936 83.8600702 -0.93936 62.9318288 -37.19136 42.0059873 -0.93936 0.149504579 -0.93936 21.0777459 35.31264 0.149504579 71.56224 42.0059873 71.56224 62.9318288 107.81424"></polyline>
+                            </g>
+                            <g id="Group-181" transform="translate(41.000000, 0.000000)">
+                                <mask id="mask-4" fill="white">
+                                    <use xlink:href="#path-3"></use>
+                                </mask>
+                                <g id="Clip-180"></g>
+                                <path d="M1.20851535,-0.93936 L43.0625983,71.56224" id="Stroke-179" stroke="#000000" stroke-width="0.154" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-4)"></path>
+                            </g>
+                            <g id="Group-184" transform="translate(41.000000, 0.000000)">
+                                <mask id="mask-6" fill="white">
+                                    <use xlink:href="#path-5"></use>
+                                </mask>
+                                <g id="Clip-183"></g>
+                                <path d="M43.0635582,-0.93936 L1.211875,71.56224" id="Stroke-182" stroke="#000000" stroke-width="0.154" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-6)"></path>
+                            </g>
+                            <g id="Group-187" transform="translate(60.000000, 0.000000)">
+                                <mask id="mask-8" fill="white">
+                                    <use xlink:href="#path-7"></use>
+                                </mask>
+                                <g id="Clip-186"></g>
+                                <path d="M2.93801696,107.81544 L2.93801696,-37.19256" id="Stroke-185" stroke="#000000" stroke-width="0.154" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-8)"></path>
+                            </g>
+                            <g id="Group-190" transform="translate(0.000000, 0.000000)">
+                                <mask id="mask-10" fill="white">
+                                    <use xlink:href="#path-9"></use>
+                                </mask>
+                                <g id="Clip-189"></g>
+                                <path d="M0.149264604,-0.93936 L125.713913,71.56224" id="Stroke-188" stroke="#000000" stroke-width="0.154" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-10)"></path>
+                            </g>
+                            <g id="Group-193" transform="translate(0.000000, 0.000000)">
+                                <mask id="mask-12" fill="white">
+                                    <use xlink:href="#path-11"></use>
+                                </mask>
+                                <g id="Clip-192"></g>
+                                <path d="M125.714393,-0.93936 L0.152144307,71.56224" id="Stroke-191" stroke="#000000" stroke-width="0.154" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-12)"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
