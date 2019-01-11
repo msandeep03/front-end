@@ -14,8 +14,8 @@ import ProviderSpace        from 'evoke-me/space/all/Provider'
 import { optionSet }        from 'evoke-me/space/api/manager'
 
 import PageHome             from 'app/honey/page/web/PageHome'
-import PageStore             from 'app/honey/page/web/PageStore'
-import PageProductList             from 'app/honey/page/web/PageProductList'
+import PageStore            from 'app/honey/page/web/PageStore'
+import PageProductList      from 'app/honey/page/web/PageProductList'
 
 
 optionSet({ HMR: true })
